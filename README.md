@@ -2,4 +2,4 @@
     
   ![](https://komarev.com/ghpvc/?username=tyzmle&label=deers&color=76797c)
    
-<img  height="490" alt="IMG_8397" src="https://github.com/user-attachments/assets/edc15bee-d884-4a4d-8374-5eb182015651" />
+<img height="414" alt="download (26)" src="https://github.com/user-attachments/assets/3be2dffd-7f32-463b-9747-3b5dfc2889c1" />
