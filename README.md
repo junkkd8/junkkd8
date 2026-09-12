@@ -2,4 +2,8 @@
     
   ![](https://komarev.com/ghpvc/?username=tyzmle&label=guns&color=000000)
    
-<img height="415" alt="download (30)" src="https://github.com/user-attachments/assets/3942cb1c-5295-49b2-8aa1-2047fd753a0b" />
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u3stiobril2k26hbegbae2ej6m&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
