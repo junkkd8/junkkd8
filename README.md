@@ -2,4 +2,4 @@
     
   ![](https://komarev.com/ghpvc/?username=tyzmle&label=guns&color=000000)
    
-<img height="414" alt="download (26)" src="https://github.com/user-attachments/assets/3be2dffd-7f32-463b-9747-3b5dfc2889c1" />
+<img  height="420" alt="download (27)" src="https://github.com/user-attachments/assets/6f06c271-4a15-4e43-984c-149132d8bce5" />
